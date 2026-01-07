@@ -1,0 +1,11 @@
+# MAC FILES
+.DS_Store
+# Python cache files
+__pycache__/
+*.pyc
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# VSCode settings
+.vscode/
+# Data files
+Datasets/
