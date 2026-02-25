@@ -1,0 +1,26 @@
+# Reguirements for General Purpose
+pandas
+numpy
+
+# Requirements for Data Loading and Preparation
+kagglehub
+pyarrow
+
+# Requirements for SVS File Processing
+openslide-python
+openslide-bin
+pillow
+scikit-image
+opencv-python
+matplotlib
+tqdm
+
+#Requirements for Synthetic Data Generation
+
+# Requirements for Visualization
+matplotlib
+seaborn
+
+# Requirements for Machine Learning and Modeling
+torch
+torchvision
