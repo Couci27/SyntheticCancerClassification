@@ -9,3 +9,15 @@ __pycache__/
 .vscode/
 # Data files
 Datasets/
+indices/
+# pickle files
+*.pkl
+
+# QuPath
+QuPath/
+
+# Progress Reports
+progress_reports/
+
+gdc-client
+gdc_slide_manifest.txt
